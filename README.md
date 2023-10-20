@@ -1,2 +1,4 @@
 # telnet001
-Red Hat Linux Process
+Red Hat Linux process
+Enter process name
+Log into it
